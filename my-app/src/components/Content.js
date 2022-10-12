@@ -4,7 +4,7 @@ function Content(props) {
         <h2>{props.title}</h2>
         {props.desc}
       </article>
-    );
+    )
   }
 
   export default Content;
